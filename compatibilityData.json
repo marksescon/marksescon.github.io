@@ -179,6 +179,27 @@
         "Vancomycin": "Y",
         "Vasopressin": "Y"
     },
+    "Normal Saline": {
+        "Cisatracurium": "Y",
+        "Dobutamine": "Y",
+        "Dopamine": "Y",
+        "Fentanyl": "Y",
+        "Heparin": "Y",
+        "Insulin": "Y",
+        "Magnesium": "Y",
+        "Midazolam": "Y",
+        "Norepinephrine": "Y",
+        "Normal Saline": "Y",
+        "Pantoprazole": "Y",
+        "Phenylephrine": "Y",
+        "Piperacillin/Tazobactam": "Y",
+        "Potassium Chloride": "Y",
+        "Potassium Phosphates": "Y",
+        "Propofol": "Y",
+        "Sodium Bicarbonate": "Y",
+        "Vancomycin": "Y",
+        "Vasopressin": "Y"
+    },
     "Pantoprazole": {
         "Cisatracurium": "N",
         "Dobutamine": "N",
