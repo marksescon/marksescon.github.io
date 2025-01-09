@@ -1,119 +1,81 @@
 {
-  "metadata": {
-    "Cisatracurium besylate (Nimbex)": {
-      "category": "sedatives",
-      "aliases": [
-        "Nimbex"
-      ]
-    },
-    "DOBUTamine hydrochloride": {
-      "category": "vasoactives",
-      "aliases": [
-        "Dobutamine"
-      ]
-    },
-    "DOPamine hydrochloride": {
-      "category": "vasoactives",
-      "aliases": [
-        "Dopamine"
-      ]
-    },
-    "FentaNYL citrate": {
-      "category": "sedatives",
-      "aliases": [
-        "Fentanyl"
-      ]
-    },
-    "Heparin sodium": {
-      "category": "misc",
-      "aliases": [
-        "Heparin"
-      ]
-    },
-    "Insulin regular": {
-      "category": "misc",
-      "aliases": [
-        "Insulin"
-      ]
-    },
-    "Magnesium sulfate": {
-      "category": "secondaries",
-      "aliases": [
-        "Magnesium sulfate"
-      ]
-    },
-    "Midazolam hydrochloride (Versed)": {
-      "category": "sedatives",
-      "aliases": [
-        "Versed"
-      ]
-    },
-    "Norepinephrine bitartrate": {
-      "category": "vasoactives",
-      "aliases": [
-        "Levophed"
-      ]
-    },
-    "Normal Saline": {
-      "category": "ivfluids",
-      "aliases": [
-        "Normal Saline"
-      ]
-    },
-    "Pantoprazole sodium": {
-      "category": "dedicated",
-      "aliases": [
-        "Protonix"
-      ]
-    },
-    "Phenylephrine hydrochloride": {
-      "category": "vasoactives",
-      "aliases": [
-        "Phenylephrine"
-      ]
-    },
-    "Piperacillin sodium-tazobactam sodium (Zosyn)": {
-      "category": "secondaries",
-      "aliases": [
-        "Zosyn"
-      ]
-    },
-    "Potassium chloride": {
-      "category": "secondaries",
-      "aliases": [
-        "Potassium chloride"
-      ]
-    },
-    "Potassium phosphates": {
-      "category": "secondaries",
-      "aliases": [
-        "Potassium phosphates"
-      ]
-    },
-    "Propofol": {
-      "category": "sedatives",
-      "aliases": [
-        "Propofol"
-      ]
-    },
-    "Sodium bicarbonate": {
-      "category": "dedicated",
-      "aliases": [
-        "Sodium bicarbonate"
-      ]
-    },
-    "Vancomycin hydrochloride": {
-      "category": "secondaries",
-      "aliases": [
-        "Vancomycin"
-      ]
-    },
-    "Vasopressin": {
-      "category": "secondaries",
-      "aliases": [
-        "Vasopressin"
-      ]
-    }
+    "metadata": {
+        "Cisatracurium besylate (Nimbex)": {
+            "category": "Sedatives",
+            "aliases": ["Nimbex", "Cis"]
+        },
+        "DOBUTamine hydrochloride": {
+            "category": "Vasoactives",
+            "aliases": []
+        },
+        "DOPamine hydrochloride": {
+            "category": "Vasoactives",
+            "aliases": ["Dopamine"]
+        },
+        "FentaNYL citrate": {
+            "category": "Sedatives",
+            "aliases": []
+        },
+        "Heparin sodium": {
+            "category": "Miscellaneous",
+            "aliases": []
+        },
+        "Insulin regular": {
+            "category": "Miscellaneous",
+            "aliases": []
+        },
+        "Magnesium sulfate": {
+            "category": "Secondaries",
+            "aliases": []
+        },
+        "Midazolam hydrochloride (Versed)": {
+            "category": "Sedatives",
+            "aliases": ["Versed"]
+        },
+        "Norepinephrine bitartrate": {
+            "category": "Vasoactives",
+            "aliases": ["Levophed", "Levo"]
+        },
+        "Normal Saline": {
+            "category": "IV Fluids",
+            "aliases": []
+        },
+        "Pantoprazole sodium": {
+            "category": "Strongly Suggested to Require a Dedicated Line",
+            "aliases": []
+        },
+        "Phenylephrine hydrochloride": {
+            "category": "Vasoactives",
+            "aliases": []
+        },
+        "Piperacillin sodium-tazobactam sodium (Zosyn)": {
+            "category": "Secondaries",
+            "aliases": ["Zosyn"]
+        },
+        "Potassium chloride": {
+            "category": "Secondaries",
+            "aliases": []
+        },
+        "Potassium phosphates": {
+            "category": "Secondaries",
+            "aliases": []
+        },
+        "Propofol": {
+            "category": "Sedatives",
+            "aliases": []
+        },
+        "Sodium bicarbonate": {
+            "category": "Strongly Suggested to Require a Dedicated Line",
+            "aliases": []
+        },
+        "Vancomycin hydrochloride": {
+            "category": "Secondaries",
+            "aliases": ["Vanco"]
+        },
+        "Vasopressin": {
+            "category": "Vasoactives",
+            "aliases": []
+        }
   },
   "compatibility": {
     "Cisatracurium besylate (Nimbex)": {
