@@ -1,0 +1,1284 @@
+{
+  "compatibility": {
+    "Acyclovir": {
+      "Acyclovir": 2,
+      "Amiodarone": 0,
+      "Angiotensin II": 0,
+      "Argatroban": 2,
+      "Bumetanide (Bumex)": 2,
+      "Calcium gluconate": 2,
+      "CefTRIAXone sodium": 2,
+      "Cefepime hydrochloride": 0,
+      "Cisatracurium besylate (Nimbex)": 1,
+      "DOBUTamine hydrochloride": 0,
+      "DOPamine hydrochloride": 0,
+      "Dexmedetomidine hydrochloride (Precedex)": 2,
+      "Doxycycline hyclate": 2,
+      "EPINEPHrine hydrochloride": 0,
+      "FentaNYL citrate": 2,
+      "Heparin sodium": 2,
+      "Insulin regular": 2,
+      "LevETIRAcetam": 0,
+      "Lidocaine hydrochloride": 0,
+      "Magnesium sulfate": 2,
+      "Meropenem": 1,
+      "Methylene blue": 0,
+      "Midazolam hydrochloride (Versed)": 0,
+      "Milrinone lactate": 2,
+      "NiCARdipine hydrochloride": 0,
+      "Norepinephrine bitartrate": 0,
+      "Pantoprazole sodium": 1,
+      "Phenylephrine hydrochloride": 0,
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 0,
+      "Potassium chloride": 2,
+      "Potassium phosphates": 0,
+      "Propofol": 2,
+      "Sodium bicarbonate": 2,
+      "Sodium phosphates": 0,
+      "Vancomycin hydrochloride": 2,
+      "Vasopressin": 2
+    },
+    "Amiodarone": {
+      "Amiodarone": 2,
+      "Angiotensin II": 0,
+      "Argatroban": 1,
+      "Bumetanide (Bumex)": 1,
+      "Calcium gluconate": 1,
+      "CefTRIAXone sodium": 1,
+      "Cefepime hydrochloride": 2,
+      "Cisatracurium besylate (Nimbex)": 2,
+      "DOBUTamine hydrochloride": 1,
+      "DOPamine hydrochloride": 2,
+      "Dexmedetomidine hydrochloride (Precedex)": 2,
+      "Doxycycline hyclate": 2,
+      "EPINEPHrine hydrochloride": 2,
+      "FentaNYL citrate": 1,
+      "Heparin sodium": 0,
+      "Insulin regular": 1,
+      "LevETIRAcetam": 0,
+      "Lidocaine hydrochloride": 2,
+      "Magnesium sulfate": 1,
+      "Meropenem": 0,
+      "Methylene blue": 0,
+      "Midazolam hydrochloride (Versed)": 2,
+      "Milrinone lactate": 2,
+      "NiCARdipine hydrochloride": 2,
+      "Norepinephrine bitartrate": 1,
+      "Pantoprazole sodium": 1,
+      "Phenylephrine hydrochloride": 2,
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 0,
+      "Potassium chloride": 1,
+      "Potassium phosphates": 0,
+      "Propofol": 0,
+      "Sodium bicarbonate": 0,
+      "Sodium phosphates": 0,
+      "Vancomycin hydrochloride": 2,
+      "Vasopressin": 2
+    },
+    "Angiotensin II": {
+      "Angiotensin II": 2,
+      "Argatroban": 0,
+      "Bumetanide (Bumex)": 0,
+      "Calcium gluconate": 0,
+      "CefTRIAXone sodium": 0,
+      "Cefepime hydrochloride": 0,
+      "Cisatracurium besylate (Nimbex)": 0,
+      "DOBUTamine hydrochloride": 0,
+      "DOPamine hydrochloride": 2,
+      "Dexmedetomidine hydrochloride (Precedex)": 0,
+      "Doxycycline hyclate": 0,
+      "EPINEPHrine": 2,
+      "FentaNYL citrate": 0,
+      "Heparin sodium": 0,
+      "Insulin regular": 0,
+      "LevETIRAcetam": 0,
+      "Lidocaine hydrochloride": 0,
+      "Magnesium sulfate": 0,
+      "Meropenem": 0,
+      "Methylene blue": 0,
+      "Midazolam hydrochloride (Versed)": 0,
+      "Milrinone lactate": 0,
+      "NiCARdipine hydrochloride": 0,
+      "Norepinephrine bitartrate": 2,
+      "Pantoprazole sodium": 0,
+      "Phenylephrine hydrochloride": 2,
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 0,
+      "Potassium chloride": 0,
+      "Potassium phosphates": 0,
+      "Propofol": 0,
+      "Sodium bicarbonate": 0,
+      "Sodium phosphates": 0,
+      "Vancomycin hydrochloride": 0,
+      "Vasopressin": 2
+    },
+    "Argatroban": {
+      "Argatroban": 2,
+      "Bumetanide (Bumex)": 2,
+      "Calcium gluconate": 2,
+      "CefTRIAXone sodium": 2,
+      "Cefepime hydrochloride": 0,
+      "Cisatracurium besylate (Nimbex)": 2,
+      "DOBUTamine hydrochloride": 2,
+      "DOPamine hydrochloride": 2,
+      "Dexmedetomidine hydrochloride (Precedex)": 2,
+      "Doxycycline hyclate": 2,
+      "EPINEPHrine": 2,
+      "FentaNYL citrate": 2,
+      "Heparin sodium": 2,
+      "Insulin regular": 2,
+      "LevETIRAcetam": 0,
+      "Lidocaine hydrochloride": 2,
+      "Magnesium sulfate": 2,
+      "Meropenem": 2,
+      "Methylene blue": 0,
+      "Midazolam hydrochloride (Versed)": 2,
+      "Milrinone lactate": 2,
+      "NiCARdipine hydrochloride": 2,
+      "Norepinephrine bitartrate": 2,
+      "Pantoprazole sodium": 2,
+      "Phenylephrine hydrochloride": 2,
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 2,
+      "Potassium chloride": 2,
+      "Potassium phosphates": 2,
+      "Propofol": 0,
+      "Sodium bicarbonate": 2,
+      "Sodium phosphates": 2,
+      "Vancomycin hydrochloride": 2,
+      "Vasopressin": 2
+    },
+    "Bumetanide (Bumex)": {
+      "Bumetanide (Bumex)": 2,
+      "Calcium gluconate": 2,
+      "CefTRIAXone sodium": 2,
+      "Cefepime hydrochloride": 2,
+      "Cisatracurium besylate (Nimbex)": 2,
+      "DOBUTamine hydrochloride": 0,
+      "DOPamine hydrochloride": 2,
+      "Dexmedetomidine hydrochloride (Precedex)": 1,
+      "Doxycycline hyclate": 2,
+      "EPINEPHrine": 1,
+      "FentaNYL citrate": 2,
+      "Heparin sodium": 1,
+      "Insulin regular": 2,
+      "LevETIRAcetam": 0,
+      "Lidocaine hydrochloride": 2,
+      "Magnesium sulfate": 2,
+      "Meropenem": 0,
+      "Methylene blue": 0,
+      "Midazolam hydrochloride (Versed)": 1,
+      "Milrinone lactate": 2,
+      "NiCARdipine hydrochloride": 2,
+      "Norepinephrine bitartrate": 2,
+      "Pantoprazole sodium": 2,
+      "Phenylephrine hydrochloride": 2,
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 2,
+      "Potassium chloride": 2,
+      "Potassium phosphates": 0,
+      "Propofol": 2,
+      "Sodium bicarbonate": 2,
+      "Sodium phosphates": 0,
+      "Vancomycin hydrochloride": 2,
+      "Vasopressin": 2
+    },
+    "Calcium gluconate": {
+      "Calcium gluconate": 2,
+      "CefTRIAXone sodium": 0,
+      "Cefepime hydrochloride": 2,
+      "Cisatracurium besylate (Nimbex)": 2,
+      "DOBUTamine hydrochloride": 2,
+      "DOPamine hydrochloride": 2,
+      "Dexmedetomidine hydrochloride (Precedex)": 2,
+      "Doxycycline hyclate": 2,
+      "EPINEPHrine": 2,
+      "FentaNYL citrate": 2,
+      "Heparin sodium": 1,
+      "Insulin regular": 2,
+      "LevETIRAcetam": 0,
+      "Lidocaine hydrochloride": 2,
+      "Magnesium sulfate": 2,
+      "Meropenem": 1,
+      "Methylene blue": 0,
+      "Midazolam hydrochloride (Versed)": 2,
+      "Milrinone lactate": 2,
+      "NiCARdipine hydrochloride": 2,
+      "Norepinephrine bitartrate": 2,
+      "Pantoprazole sodium": 1,
+      "Phenylephrine hydrochloride": 2,
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 2,
+      "Potassium chloride": 2,
+      "Potassium phosphates": 0,
+      "Propofol": 2,
+      "Sodium bicarbonate": 0,
+      "Sodium phosphates": 0,
+      "Vancomycin hydrochloride": 2,
+      "Vasopressin": 2
+    },
+    "CefTRIAXone sodium": {
+      "CefTRIAXone sodium": 2,
+      "Cefepime hydrochloride": 0,
+      "Cisatracurium besylate (Nimbex)": 2,
+      "DOBUTamine hydrochloride": 1,
+      "DOPamine hydrochloride": 2,
+      "Dexmedetomidine hydrochloride (Precedex)": 2,
+      "Doxycycline hyclate": 2,
+      "EPINEPHrine": 2,
+      "FentaNYL citrate": 2,
+      "Heparin sodium": 2,
+      "Insulin regular": 2,
+      "LevETIRAcetam": 0,
+      "Lidocaine hydrochloride": 2,
+      "Magnesium sulfate": 0,
+      "Meropenem": 2,
+      "Methylene blue": 0,
+      "Midazolam hydrochloride (Versed)": 2,
+      "Milrinone lactate": 1,
+      "NiCARdipine hydrochloride": 2,
+      "Norepinephrine bitartrate": 2,
+      "Pantoprazole sodium": 2,
+      "Phenylephrine hydrochloride": 2,
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 0,
+      "Potassium chloride": 2,
+      "Potassium phosphates": 0,
+      "Propofol": 1,
+      "Sodium bicarbonate": 2,
+      "Sodium phosphates": 0,
+      "Vancomycin hydrochloride": 1,
+      "Vasopressin": 2
+    },
+    "Cefepime hydrochloride": {
+      "Cefepime hydrochloride": 2,
+      "Cisatracurium besylate (Nimbex)": 0,
+      "DOBUTamine hydrochloride": 1,
+      "DOPamine hydrochloride": 1,
+      "Dexmedetomidine hydrochloride (Precedex)": 2,
+      "Doxycycline hyclate": 0,
+      "EPINEPHrine": 0,
+      "FentaNYL citrate": 0,
+      "Heparin sodium": 0,
+      "Insulin regular": 2,
+      "LevETIRAcetam": 0,
+      "Lidocaine hydrochloride": 0,
+      "Magnesium sulfate": 0,
+      "Meropenem": 0,
+      "Methylene blue": 0,
+      "Midazolam hydrochloride (Versed)": 0,
+      "Milrinone lactate": 2,
+      "NiCARdipine hydrochloride": 1,
+      "Norepinephrine bitartrate": 0,
+      "Pantoprazole sodium": 0,
+      "Phenylephrine hydrochloride": 0,
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 2,
+      "Potassium chloride": 0,
+      "Potassium phosphates": 0,
+      "Propofol": 1,
+      "Sodium bicarbonate": 2,
+      "Sodium phosphates": 0,
+      "Vancomycin hydrochloride": 1,
+      "Vasopressin": 2
+    },
+    "Cisatracurium besylate (Nimbex)": {
+      "Cisatracurium besylate (Nimbex)": 2,
+      "DOBUTamine hydrochloride": 2,
+      "DOPamine hydrochloride": 2,
+      "Dexmedetomidine hydrochloride (Precedex)": 2,
+      "Doxycycline hyclate": 2,
+      "EPINEPHrine": 2,
+      "FentaNYL citrate": 2,
+      "Heparin sodium": 1,
+      "Insulin regular": 2,
+      "LevETIRAcetam": 2,
+      "Lidocaine hydrochloride": 2,
+      "Magnesium sulfate": 2,
+      "Meropenem": 0,
+      "Methylene blue": 0,
+      "Midazolam hydrochloride (Versed)": 2,
+      "Milrinone lactate": 2,
+      "NiCARdipine hydrochloride": 2,
+      "Norepinephrine bitartrate": 2,
+      "Pantoprazole sodium": 0,
+      "Phenylephrine hydrochloride": 2,
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 1,
+      "Potassium chloride": 2,
+      "Potassium phosphates": 0,
+      "Propofol": 1,
+      "Sodium bicarbonate": 1,
+      "Sodium phosphates": 0,
+      "Vancomycin hydrochloride": 2,
+      "Vasopressin": 1
+    },
+    "DOBUTamine hydrochloride": {
+      "DOBUTamine hydrochloride": 2,
+      "DOPamine hydrochloride": 2,
+      "Dexmedetomidine hydrochloride (Precedex)": 2,
+      "Doxycycline hyclate": 2,
+      "EPINEPHrine": 2,
+      "FentaNYL citrate": 2,
+      "Heparin sodium": 1,
+      "Insulin regular": 1,
+      "LevETIRAcetam": 0,
+      "Lidocaine hydrochloride": 2,
+      "Magnesium sulfate": 2,
+      "Meropenem": 0,
+      "Methylene blue": 0,
+      "Midazolam hydrochloride (Versed)": 1,
+      "Milrinone lactate": 2,
+      "NiCARdipine hydrochloride": 2,
+      "Norepinephrine bitartrate": 2,
+      "Pantoprazole sodium": 0,
+      "Phenylephrine hydrochloride": 2,
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 0,
+      "Potassium chloride": 2,
+      "Potassium phosphates": 0,
+      "Propofol": 1,
+      "Sodium bicarbonate": 0,
+      "Sodium phosphates": 0,
+      "Vancomycin hydrochloride": 2,
+      "Vasopressin": 2
+    },
+    "DOPamine hydrochloride": {
+      "DOPamine hydrochloride": 2,
+      "Dexmedetomidine hydrochloride (Precedex)": 2,
+      "Doxycycline hyclate": 2,
+      "EPINEPHrine": 2,
+      "FentaNYL citrate": 2,
+      "Heparin sodium": 2,
+      "Insulin regular": 1,
+      "LevETIRAcetam": 0,
+      "Lidocaine hydrochloride": 2,
+      "Magnesium sulfate": 2,
+      "Meropenem": 2,
+      "Methylene blue": 0,
+      "Midazolam hydrochloride (Versed)": 2,
+      "Milrinone lactate": 2,
+      "NiCARdipine hydrochloride": 2,
+      "Norepinephrine bitartrate": 2,
+      "Pantoprazole sodium": 1,
+      "Phenylephrine hydrochloride": 2,
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 2,
+      "Potassium chloride": 2,
+      "Potassium phosphates": 0,
+      "Propofol": 1,
+      "Sodium bicarbonate": 0,
+      "Sodium phosphates": 0,
+      "Vancomycin hydrochloride": 2,
+      "Vasopressin": 2
+    },
+    "Dexmedetomidine hydrochloride (Precedex)": {
+      "Dexmedetomidine hydrochloride (Precedex)": 2,
+      "Doxycycline hyclate": 2,
+      "EPINEPHrine": 2,
+      "FentaNYL citrate": 2,
+      "Heparin sodium": 2,
+      "Insulin regular": 2,
+      "LevETIRAcetam": 2,
+      "Lidocaine hydrochloride": 2,
+      "Magnesium sulfate": 2,
+      "Meropenem": 2,
+      "Methylene blue": 0,
+      "Midazolam hydrochloride (Versed)": 2,
+      "Milrinone lactate": 2,
+      "NiCARdipine hydrochloride": 2,
+      "Norepinephrine bitartrate": 2,
+      "Pantoprazole sodium": 0,
+      "Phenylephrine hydrochloride": 2,
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 2,
+      "Potassium chloride": 2,
+      "Potassium phosphates": 2,
+      "Propofol": 2,
+      "Sodium bicarbonate": 2,
+      "Sodium phosphates": 2,
+      "Vancomycin hydrochloride": 2,
+      "Vasopressin": 2
+    },
+    "Doxycycline hyclate": {
+      "Doxycycline hyclate": 2,
+      "EPINEPHrine": 2,
+      "FentaNYL citrate": 2,
+      "Heparin sodium": 0,
+      "Insulin regular": 2,
+      "LevETIRAcetam": 0,
+      "Lidocaine hydrochloride": 2,
+      "Magnesium sulfate": 2,
+      "Meropenem": 1,
+      "Methylene blue": 0,
+      "Midazolam hydrochloride (Versed)": 2,
+      "Milrinone lactate": 2,
+      "NiCARdipine hydrochloride": 2,
+      "Norepinephrine bitartrate": 2,
+      "Pantoprazole sodium": 2,
+      "Phenylephrine hydrochloride": 2,
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 0,
+      "Potassium chloride": 2,
+      "Potassium phosphates": 0,
+      "Propofol": 2,
+      "Sodium bicarbonate": 0,
+      "Sodium phosphates": 0,
+      "Vancomycin hydrochloride": 2,
+      "Vasopressin": 2
+    },
+    "EPINEPHrine": {
+      "EPINEPHrine": 2,
+      "FentaNYL citrate": 2,
+      "Heparin sodium": 2,
+      "Insulin regular": 1,
+      "LevETIRAcetam": 0,
+      "Lidocaine hydrochloride": 2,
+      "Magnesium sulfate": 2,
+      "Meropenem": 2,
+      "Methylene blue": 0,
+      "Midazolam hydrochloride (Versed)": 2,
+      "Milrinone lactate": 2,
+      "NiCARdipine hydrochloride": 2,
+      "Norepinephrine bitartrate": 2,
+      "Pantoprazole sodium": 1,
+      "Phenylephrine hydrochloride": 2,
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 2,
+      "Potassium chloride": 2,
+      "Potassium phosphates": 0,
+      "Propofol": 1,
+      "Sodium bicarbonate": 0,
+      "Sodium phosphates": 0,
+      "Vancomycin hydrochloride": 2,
+      "Vasopressin": 2
+    },
+    "FentaNYL citrate": {
+      "FentaNYL citrate": 2,
+      "Heparin sodium": 2,
+      "Insulin regular": 2,
+      "LevETIRAcetam": 0,
+      "Lidocaine hydrochloride": 2,
+      "Magnesium sulfate": 2,
+      "Meropenem": 2,
+      "Methylene blue": 0,
+      "Midazolam hydrochloride (Versed)": 2,
+      "Milrinone lactate": 2,
+      "NiCARdipine hydrochloride": 2,
+      "Norepinephrine bitartrate": 2,
+      "Pantoprazole sodium": 1,
+      "Phenylephrine hydrochloride": 2,
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 2,
+      "Potassium chloride": 2,
+      "Potassium phosphates": 0,
+      "Propofol": 2,
+      "Sodium bicarbonate": 2,
+      "Sodium phosphates": 0,
+      "Vancomycin hydrochloride": 2,
+      "Vasopressin": 2
+    },
+    "Heparin sodium": {
+      "Heparin sodium": 2,
+      "Insulin regular": 1,
+      "LevETIRAcetam": 0,
+      "Lidocaine hydrochloride": 2,
+      "Magnesium sulfate": 2,
+      "Meropenem": 2,
+      "Methylene blue": 0,
+      "Midazolam hydrochloride (Versed)": 2,
+      "Milrinone lactate": 2,
+      "NiCARdipine hydrochloride": 1,
+      "Norepinephrine bitartrate": 2,
+      "Pantoprazole sodium": 1,
+      "Phenylephrine hydrochloride": 2,
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 2,
+      "Potassium chloride": 2,
+      "Potassium phosphates": 0,
+      "Propofol": 2,
+      "Sodium bicarbonate": 2,
+      "Sodium phosphates": 0,
+      "Vancomycin hydrochloride": 1,
+      "Vasopressin": 2
+    },
+    "Insulin regular": {
+      "Insulin regular": 2,
+      "LevETIRAcetam": 0,
+      "Lidocaine hydrochloride": 2,
+      "Magnesium sulfate": 2,
+      "Meropenem": 2,
+      "Methylene blue": 0,
+      "Midazolam hydrochloride (Versed)": 1,
+      "Milrinone lactate": 2,
+      "NiCARdipine hydrochloride": 0,
+      "Norepinephrine bitartrate": 1,
+      "Pantoprazole sodium": 1,
+      "Phenylephrine hydrochloride": 0,
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 0,
+      "Potassium chloride": 2,
+      "Potassium phosphates": 0,
+      "Propofol": 2,
+      "Sodium bicarbonate": 2,
+      "Sodium phosphates": 0,
+      "Vancomycin hydrochloride": 2,
+      "Vasopressin": 1
+    },
+    "LevETIRAcetam": {
+      "LevETIRAcetam": 2,
+      "Lidocaine hydrochloride": 0,
+      "Magnesium sulfate": 0,
+      "Meropenem": 0,
+      "Methylene blue": 0,
+      "Midazolam hydrochloride (Versed)": 0,
+      "Milrinone lactate": 0,
+      "NiCARdipine hydrochloride": 0,
+      "Norepinephrine bitartrate": 2,
+      "Pantoprazole sodium": 0,
+      "Phenylephrine hydrochloride": 0,
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 1,
+      "Potassium chloride": 0,
+      "Potassium phosphates": 0,
+      "Propofol": 2,
+      "Sodium bicarbonate": 0,
+      "Sodium phosphates": 0,
+      "Vancomycin hydrochloride": 2,
+      "Vasopressin": 2
+    },
+    "Lidocaine hydrochloride": {
+      "Lidocaine hydrochloride": 2,
+      "Magnesium sulfate": 2,
+      "Meropenem": 2,
+      "Methylene blue": 0,
+      "Midazolam hydrochloride (Versed)": 2,
+      "Milrinone lactate": 0,
+      "NiCARdipine hydrochloride": 2,
+      "Norepinephrine bitartrate": 2,
+      "Pantoprazole sodium": 0,
+      "Phenylephrine hydrochloride": 2,
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 2,
+      "Potassium chloride": 2,
+      "Potassium phosphates": 0,
+      "Propofol": 1,
+      "Sodium bicarbonate": 2,
+      "Sodium phosphates": 0,
+      "Vancomycin hydrochloride": 2,
+      "Vasopressin": 2
+    },
+    "Magnesium sulfate": {
+      "Magnesium sulfate": 2,
+      "Meropenem": 2,
+      "Methylene blue": 0,
+      "Midazolam hydrochloride (Versed)": 2,
+      "Milrinone lactate": 2,
+      "NiCARdipine hydrochloride": 2,
+      "Norepinephrine bitartrate": 2,
+      "Pantoprazole sodium": 1,
+      "Phenylephrine hydrochloride": 2,
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 2,
+      "Potassium chloride": 2,
+      "Potassium phosphates": 0,
+      "Propofol": 1,
+      "Sodium bicarbonate": 2,
+      "Sodium phosphates": 0,
+      "Vancomycin hydrochloride": 2,
+      "Vasopressin": 2
+    },
+    "Meropenem": {
+      "Meropenem": 2,
+      "Methylene blue": 0,
+      "Midazolam hydrochloride (Versed)": 0,
+      "Milrinone lactate": 2,
+      "NiCARdipine hydrochloride": 0,
+      "Norepinephrine bitartrate": 2,
+      "Pantoprazole sodium": 1,
+      "Phenylephrine hydrochloride": 0,
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 2,
+      "Potassium chloride": 2,
+      "Potassium phosphates": 2,
+      "Propofol": 1,
+      "Sodium bicarbonate": 2,
+      "Sodium phosphates": 0,
+      "Vancomycin hydrochloride": 2,
+      "Vasopressin": 2
+    },
+    "Methylene blue": {
+      "Methylene blue": 2,
+      "Midazolam hydrochloride (Versed)": 0,
+      "Milrinone lactate": 0,
+      "NiCARdipine hydrochloride": 0,
+      "Norepinephrine bitartrate": 0,
+      "Pantoprazole sodium": 0,
+      "Phenylephrine hydrochloride": 0,
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 0,
+      "Potassium chloride": 0,
+      "Potassium phosphates": 0,
+      "Propofol": 0,
+      "Sodium bicarbonate": 0,
+      "Sodium phosphates": 0,
+      "Vancomycin hydrochloride": 0,
+      "Vasopressin": 0
+    },
+    "Midazolam hydrochloride (Versed)": {
+      "Midazolam hydrochloride (Versed)": 2,
+      "Milrinone lactate": 2,
+      "NiCARdipine hydrochloride": 2,
+      "Norepinephrine bitartrate": 2,
+      "Pantoprazole sodium": 1,
+      "Phenylephrine hydrochloride": 2,
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 0,
+      "Potassium chloride": 2,
+      "Potassium phosphates": 2,
+      "Propofol": 1,
+      "Sodium bicarbonate": 0,
+      "Sodium phosphates": 0,
+      "Vancomycin hydrochloride": 2,
+      "Vasopressin": 2
+    },
+    "Milrinone lactate": {
+      "Milrinone lactate": 2,
+      "NiCARdipine hydrochloride": 2,
+      "Norepinephrine bitartrate": 2,
+      "Pantoprazole sodium": 0,
+      "Phenylephrine hydrochloride": 2,
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 2,
+      "Potassium chloride": 2,
+      "Potassium phosphates": 2,
+      "Propofol": 2,
+      "Sodium bicarbonate": 2,
+      "Sodium phosphates": 2,
+      "Vancomycin hydrochloride": 2,
+      "Vasopressin": 2
+    },
+    "NiCARdipine hydrochloride": {
+      "NiCARdipine hydrochloride": 2,
+      "Norepinephrine bitartrate": 2,
+      "Pantoprazole sodium": 0,
+      "Phenylephrine hydrochloride": 2,
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 0,
+      "Potassium chloride": 2,
+      "Potassium phosphates": 1,
+      "Propofol": 0,
+      "Sodium bicarbonate": 0,
+      "Sodium phosphates": 2,
+      "Vancomycin hydrochloride": 2,
+      "Vasopressin": 2
+    },
+    "Norepinephrine bitartrate": {
+      "Norepinephrine bitartrate": 2,
+      "Pantoprazole sodium": 1,
+      "Phenylephrine hydrochloride": 2,
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 2,
+      "Potassium chloride": 2,
+      "Potassium phosphates": 0,
+      "Propofol": 2,
+      "Sodium bicarbonate": 0,
+      "Sodium phosphates": 0,
+      "Vancomycin hydrochloride": 2,
+      "Vasopressin": 2
+    },
+    "Pantoprazole sodium": {
+      "Pantoprazole sodium": 2,
+      "Phenylephrine hydrochloride": 2,
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 1,
+      "Potassium chloride": 2,
+      "Potassium phosphates": 0,
+      "Propofol": 1,
+      "Sodium bicarbonate": 1,
+      "Sodium phosphates": 0,
+      "Vancomycin hydrochloride": 1,
+      "Vasopressin": 2
+    },
+    "Phenylephrine hydrochloride": {
+      "Phenylephrine hydrochloride": 2,
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 2,
+      "Potassium chloride": 2,
+      "Potassium phosphates": 0,
+      "Propofol": 1,
+      "Sodium bicarbonate": 2,
+      "Sodium phosphates": 0,
+      "Vancomycin hydrochloride": 2,
+      "Vasopressin": 2
+    },
+    "Piperacillin sodium-tazobactam sodium (Zosyn)": {
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 2,
+      "Potassium chloride": 2,
+      "Potassium phosphates": 2,
+      "Propofol": 0,
+      "Sodium bicarbonate": 2,
+      "Sodium phosphates": 2,
+      "Vancomycin hydrochloride": 1,
+      "Vasopressin": 2
+    },
+    "Potassium chloride": {
+      "Potassium chloride": 2,
+      "Potassium phosphates": 0,
+      "Propofol": 2,
+      "Sodium bicarbonate": 2,
+      "Sodium phosphates": 0,
+      "Vancomycin hydrochloride": 2,
+      "Vasopressin": 2
+    },
+    "Potassium phosphates": {
+      "Potassium phosphates": 2,
+      "Propofol": 0,
+      "Sodium bicarbonate": 0,
+      "Sodium phosphates": 0,
+      "Vancomycin hydrochloride": 0,
+      "Vasopressin": 2
+    },
+    "Propofol": {
+      "Propofol": 2,
+      "Sodium bicarbonate": 2,
+      "Sodium phosphates": 0,
+      "Vancomycin hydrochloride": 1,
+      "Vasopressin": 0
+    },
+    "Sodium bicarbonate": {
+      "Sodium bicarbonate": 2,
+      "Sodium phosphates": 0,
+      "Vancomycin hydrochloride": 2,
+      "Vasopressin": 2
+    },
+    "Sodium phosphates": {
+      "Sodium phosphates": 2,
+      "Vancomycin hydrochloride": 0,
+      "Vasopressin": 2
+    },
+    "Vancomycin hydrochloride": {
+      "Vancomycin hydrochloride": 2,
+      "Vasopressin": 2
+    },
+    "Dextrose 10% in Water (D10W)": {
+      "Dextrose 10% in Water (D10W)": 2,
+      "Acyclovir": 0,
+      "Amiodarone": 0,
+      "Angiotensin II": 0,
+      "Argatroban": 0,
+      "Bumetanide (Bumex)": 0,
+      "Calcium gluconate": 0,
+      "CefTRIAXone sodium": 0,
+      "Cefepime hydrochloride": 0,
+      "Cisatracurium besylate (Nimbex)": 0,
+      "DOBUTamine hydrochloride": 0,
+      "DOPamine hydrochloride": 0,
+      "Dexmedetomidine hydrochloride (Precedex)": 0,
+      "Doxycycline hyclate": 0,
+      "EPINEPHrine": 0,
+      "FentaNYL citrate": 0,
+      "Heparin sodium": 0,
+      "Insulin regular": 0,
+      "LevETIRAcetam": 0,
+      "Lidocaine hydrochloride": 0,
+      "Magnesium sulfate": 0,
+      "Meropenem": 0,
+      "Methylene blue": 0,
+      "Midazolam hydrochloride (Versed)": 0,
+      "Milrinone lactate": 0,
+      "NiCARdipine hydrochloride": 0,
+      "Norepinephrine bitartrate": 0,
+      "Pantoprazole sodium": 0,
+      "Phenylephrine hydrochloride": 0,
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 0,
+      "Potassium chloride": 0,
+      "Potassium phosphates": 0,
+      "Propofol": 0,
+      "Sodium bicarbonate": 0,
+      "Sodium phosphates": 0,
+      "Vancomycin hydrochloride": 0,
+      "Vasopressin": 0
+    },
+    "Dextrose 5% in Water (D5W)": {
+      "Dextrose 5% in Water (D5W)": 2,
+      "Acyclovir": 0,
+      "Amiodarone": 0,
+      "Angiotensin II": 0,
+      "Argatroban": 0,
+      "Bumetanide (Bumex)": 0,
+      "Calcium gluconate": 0,
+      "CefTRIAXone sodium": 0,
+      "Cefepime hydrochloride": 0,
+      "Cisatracurium besylate (Nimbex)": 2,
+      "DOBUTamine hydrochloride": 0,
+      "DOPamine hydrochloride": 0,
+      "Dexmedetomidine hydrochloride (Precedex)": 2,
+      "Doxycycline hyclate": 0,
+      "EPINEPHrine": 0,
+      "FentaNYL citrate": 0,
+      "Heparin sodium": 0,
+      "Insulin regular": 0,
+      "LevETIRAcetam": 0,
+      "Lidocaine hydrochloride": 0,
+      "Magnesium sulfate": 0,
+      "Meropenem": 2,
+      "Methylene blue": 0,
+      "Midazolam hydrochloride (Versed)": 0,
+      "Milrinone lactate": 0,
+      "NiCARdipine hydrochloride": 0,
+      "Norepinephrine bitartrate": 0,
+      "Pantoprazole sodium": 0,
+      "Phenylephrine hydrochloride": 0,
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 0,
+      "Potassium chloride": 0,
+      "Potassium phosphates": 0,
+      "Propofol": 2,
+      "Sodium bicarbonate": 0,
+      "Sodium phosphates": 0,
+      "Vancomycin hydrochloride": 0,
+      "Vasopressin": 0
+    },
+    "Dextrose 5% in sodium chloride 0.45% (D5 1/2 NS)": {
+      "Dextrose 5% in sodium chloride 0.45% (D5 1/2 NS)": 2,
+      "Acyclovir": 0,
+      "Amiodarone": 0,
+      "Angiotensin II": 0,
+      "Argatroban": 0,
+      "Bumetanide (Bumex)": 0,
+      "Calcium gluconate": 0,
+      "CefTRIAXone sodium": 0,
+      "Cefepime hydrochloride": 0,
+      "Cisatracurium besylate (Nimbex)": 0,
+      "DOBUTamine hydrochloride": 0,
+      "DOPamine hydrochloride": 0,
+      "Dexmedetomidine hydrochloride (Precedex)": 0,
+      "Doxycycline hyclate": 0,
+      "EPINEPHrine": 0,
+      "FentaNYL citrate": 0,
+      "Heparin sodium": 0,
+      "Insulin regular": 0,
+      "LevETIRAcetam": 0,
+      "Lidocaine hydrochloride": 0,
+      "Magnesium sulfate": 2,
+      "Meropenem": 0,
+      "Methylene blue": 0,
+      "Midazolam hydrochloride (Versed)": 0,
+      "Milrinone lactate": 0,
+      "NiCARdipine hydrochloride": 0,
+      "Norepinephrine bitartrate": 0,
+      "Pantoprazole sodium": 0,
+      "Phenylephrine hydrochloride": 0,
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 0,
+      "Potassium chloride": 2,
+      "Potassium phosphates": 0,
+      "Propofol": 2,
+      "Sodium bicarbonate": 0,
+      "Sodium phosphates": 0,
+      "Vancomycin hydrochloride": 0,
+      "Vasopressin": 0
+    },
+    "Dextrose 5% in sodium chloride 0.9% (D5NS)": {
+      "Dextrose 5% in sodium chloride 0.9% (D5NS)": 2,
+      "Acyclovir": 0,
+      "Amiodarone": 0,
+      "Angiotensin II": 0,
+      "Argatroban": 0,
+      "Bumetanide (Bumex)": 0,
+      "Calcium gluconate": 0,
+      "CefTRIAXone sodium": 0,
+      "Cefepime hydrochloride": 0,
+      "Cisatracurium besylate (Nimbex)": 2,
+      "DOBUTamine hydrochloride": 0,
+      "DOPamine hydrochloride": 0,
+      "Dexmedetomidine hydrochloride (Precedex)": 0,
+      "Doxycycline hyclate": 0,
+      "EPINEPHrine": 0,
+      "FentaNYL citrate": 0,
+      "Heparin sodium": 0,
+      "Insulin regular": 0,
+      "LevETIRAcetam": 0,
+      "Lidocaine hydrochloride": 0,
+      "Magnesium sulfate": 2,
+      "Meropenem": 0,
+      "Methylene blue": 0,
+      "Midazolam hydrochloride (Versed)": 0,
+      "Milrinone lactate": 0,
+      "NiCARdipine hydrochloride": 0,
+      "Norepinephrine bitartrate": 0,
+      "Pantoprazole sodium": 0,
+      "Phenylephrine hydrochloride": 0,
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 0,
+      "Potassium chloride": 2,
+      "Potassium phosphates": 0,
+      "Propofol": 0,
+      "Sodium bicarbonate": 0,
+      "Sodium phosphates": 0,
+      "Vancomycin hydrochloride": 0,
+      "Vasopressin": 0
+    },
+    "Lactated Ringer's (LR)": {
+      "Lactated Ringer's (LR)": 2,
+      "Acyclovir": 2,
+      "Amiodarone": 1,
+      "Angiotensin II": 0,
+      "Argatroban": 0,
+      "Bumetanide (Bumex)": 2,
+      "Calcium gluconate": 2,
+      "CefTRIAXone sodium": 1,
+      "Cefepime hydrochloride": 2,
+      "Cisatracurium besylate (Nimbex)": 0,
+      "DOBUTamine hydrochloride": 2,
+      "DOPamine hydrochloride": 2,
+      "Dexmedetomidine hydrochloride (Precedex)": 2,
+      "Doxycycline hyclate": 2,
+      "EPINEPHrine": 2,
+      "FentaNYL citrate": 2,
+      "Heparin sodium": 2,
+      "Insulin regular": 1,
+      "LevETIRAcetam": 0,
+      "Lidocaine hydrochloride": 2,
+      "Magnesium sulfate": 2,
+      "Meropenem": 2,
+      "Methylene blue": 0,
+      "Midazolam hydrochloride (Versed)": 2,
+      "Milrinone lactate": 2,
+      "NiCARdipine hydrochloride": 2,
+      "Norepinephrine bitartrate": 2,
+      "Pantoprazole sodium": 0,
+      "Phenylephrine hydrochloride": 2,
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 1,
+      "Potassium chloride": 2,
+      "Potassium phosphates": 2,
+      "Propofol": 1,
+      "Sodium bicarbonate": 2,
+      "Sodium phosphates": 0,
+      "Vancomycin hydrochloride": 2,
+      "Vasopressin": 2
+    },
+    "Normal Saline (NS)": {
+      "Normal Saline (NS)": 2,
+      "Acyclovir": 2,
+      "Amiodarone": 2,
+      "Angiotensin II": 2,
+      "Argatroban": 2,
+      "Bumetanide (Bumex)": 2,
+      "Calcium gluconate": 2,
+      "CefTRIAXone sodium": 2,
+      "Cefepime hydrochloride": 2,
+      "Cisatracurium besylate (Nimbex)": 2,
+      "DOBUTamine hydrochloride": 2,
+      "DOPamine hydrochloride": 2,
+      "Dexmedetomidine hydrochloride (Precedex)": 2,
+      "Doxycycline hyclate": 2,
+      "EPINEPHrine": 2,
+      "FentaNYL citrate": 2,
+      "Heparin sodium": 2,
+      "Insulin regular": 2,
+      "LevETIRAcetam": 2,
+      "Lidocaine hydrochloride": 2,
+      "Magnesium sulfate": 2,
+      "Meropenem": 2,
+      "Methylene blue": 2,
+      "Midazolam hydrochloride (Versed)": 2,
+      "Milrinone lactate": 2,
+      "NiCARdipine hydrochloride": 2,
+      "Norepinephrine bitartrate": 2,
+      "Pantoprazole sodium": 2,
+      "Phenylephrine hydrochloride": 2,
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 2,
+      "Potassium chloride": 2,
+      "Potassium phosphates": 2,
+      "Propofol": 2,
+      "Sodium bicarbonate": 2,
+      "Sodium phosphates": 2,
+      "Vancomycin hydrochloride": 2,
+      "Vasopressin": 2
+    },
+    "Sodium Chloride 0.45% (1/2 NS)": {
+      "Sodium Chloride 0.45% (1/2 NS)": 2,
+      "Acyclovir": 2,
+      "Amiodarone": 2,
+      "Angiotensin II": 2,
+      "Argatroban": 2,
+      "Bumetanide (Bumex)": 2,
+      "Calcium gluconate": 2,
+      "CefTRIAXone sodium": 2,
+      "Cefepime hydrochloride": 2,
+      "Cisatracurium besylate (Nimbex)": 2,
+      "DOBUTamine hydrochloride": 2,
+      "DOPamine hydrochloride": 2,
+      "Dexmedetomidine hydrochloride (Precedex)": 2,
+      "Doxycycline hyclate": 2,
+      "EPINEPHrine": 2,
+      "FentaNYL citrate": 2,
+      "Heparin sodium": 2,
+      "Insulin regular": 2,
+      "LevETIRAcetam": 2,
+      "Lidocaine hydrochloride": 2,
+      "Magnesium sulfate": 2,
+      "Meropenem": 2,
+      "Methylene blue": 2,
+      "Midazolam hydrochloride (Versed)": 2,
+      "Milrinone lactate": 2,
+      "NiCARdipine hydrochloride": 2,
+      "Norepinephrine bitartrate": 2,
+      "Pantoprazole sodium": 2,
+      "Phenylephrine hydrochloride": 2,
+      "Piperacillin sodium-tazobactam sodium (Zosyn)": 2,
+      "Potassium chloride": 2,
+      "Potassium phosphates": 2,
+      "Propofol": 2,
+      "Sodium bicarbonate": 2,
+      "Sodium phosphates": 2,
+      "Vancomycin hydrochloride": 2,
+      "Vasopressin": 2
+    }
+  },
+  "metadata": {
+    "Acyclovir": {
+      "category": "secondaries",
+      "aliases": [
+        "Acyclovir"
+      ]
+    },
+    "Amiodarone": {
+      "category": "vasoactives",
+      "aliases": [
+        "Amiodarone"
+      ]
+    },
+    "Angiotensin II": {
+      "category": "vasoactives",
+      "aliases": [
+        "Angiotensin II"
+      ]
+    },
+    "Argatroban": {
+      "category": "misc",
+      "aliases": [
+        "Argatroban"
+      ]
+    },
+    "Bumetanide (Bumex)": {
+      "category": "misc",
+      "aliases": [
+        "Bumex"
+      ]
+    },
+    "Calcium gluconate": {
+      "category": "secondaries",
+      "aliases": [
+        "Calcium gluconate"
+      ]
+    },
+    "CefTRIAXone sodium": {
+      "category": "secondaries",
+      "aliases": [
+        "Ceftriaxone"
+      ]
+    },
+    "Cefepime hydrochloride": {
+      "category": "secondaries",
+      "aliases": [
+        "Cefepime"
+      ]
+    },
+    "Cisatracurium besylate (Nimbex)": {
+      "category": "sedatives",
+      "aliases": [
+        "Nimbex"
+      ]
+    },
+    "DOBUTamine hydrochloride": {
+      "category": "vasoactives",
+      "aliases": [
+        "Dobutamine"
+      ]
+    },
+    "DOPamine hydrochloride": {
+      "category": "vasoactives",
+      "aliases": [
+        "Dopamine"
+      ]
+    },
+    "Dexmedetomidine hydrochloride (Precedex)": {
+      "category": "sedatives",
+      "aliases": [
+        "Precedex"
+      ]
+    },
+    "Doxycycline hyclate": {
+      "category": "secondaries",
+      "aliases": [
+        "Doxycycline"
+      ]
+    },
+    "EPINEPHrine": {
+      "category": "vasoactives",
+      "aliases": [
+        "Epinephrine"
+      ]
+    },
+    "FentaNYL citrate": {
+      "category": "sedatives",
+      "aliases": [
+        "Fentanyl"
+      ]
+    },
+    "Heparin sodium": {
+      "category": "misc",
+      "aliases": [
+        "Heparin"
+      ]
+    },
+    "Insulin regular": {
+      "category": "misc",
+      "aliases": [
+        "Insulin"
+      ]
+    },
+    "LevETIRAcetam": {
+      "category": "secondaries",
+      "aliases": [
+        "Keprra"
+      ]
+    },
+    "Lidocaine hydrochloride": {
+      "category": "vasoactives",
+      "aliases": [
+        "Lidocaine"
+      ]
+    },
+    "Magnesium sulfate": {
+      "category": "secondaries",
+      "aliases": [
+        "Magnesium sulfate"
+      ]
+    },
+    "Meropenem": {
+      "category": "secondaries",
+      "aliases": [
+        "Meropenem"
+      ]
+    },
+    "Methylene blue": {
+      "category": "dedicated",
+      "aliases": [
+        "Methylene Blue"
+      ]
+    },
+    "Midazolam hydrochloride (Versed)": {
+      "category": "sedatives",
+      "aliases": [
+        "Versed"
+      ]
+    },
+    "Milrinone lactate": {
+      "category": "vasoactives",
+      "aliases": [
+        "Milrinone"
+      ]
+    },
+    "NiCARdipine hydrochloride": {
+      "category": "vasoactives",
+      "aliases": [
+        "Nicardipine"
+      ]
+    },
+    "Norepinephrine bitartrate": {
+      "category": "vasoactives",
+      "aliases": [
+        "Levophed"
+      ]
+    },
+    "Pantoprazole sodium": {
+      "category": "misc",
+      "aliases": [
+        "Protonix"
+      ]
+    },
+    "Phenylephrine hydrochloride": {
+      "category": "vasoactives",
+      "aliases": [
+        "Phenylephrine"
+      ]
+    },
+    "Piperacillin sodium-tazobactam sodium (Zosyn)": {
+      "category": "secondaries",
+      "aliases": [
+        "Zosyn"
+      ]
+    },
+    "Potassium chloride": {
+      "category": "secondaries",
+      "aliases": [
+        "Potassium chloride"
+      ]
+    },
+    "Potassium phosphates": {
+      "category": "secondaries",
+      "aliases": [
+        "Potassium phosphates"
+      ]
+    },
+    "Propofol": {
+      "category": "sedatives",
+      "aliases": [
+        "Propofol"
+      ]
+    },
+    "Sodium bicarbonate": {
+      "category": "dedicated",
+      "aliases": [
+        "Sodium bicarbonate"
+      ]
+    },
+    "Sodium phosphates": {
+      "category": "secondaries",
+      "aliases": [
+        "Sodium phosphates"
+      ]
+    },
+    "Vancomycin hydrochloride": {
+      "category": "secondaries",
+      "aliases": [
+        "Vancomycin"
+      ]
+    },
+    "Vasopressin": {
+      "category": "vasoactives",
+      "aliases": [
+        "Vasopressin"
+      ]
+    },
+    "Dextrose 10% in Water (D10W)": {
+      "category": "ivfluids",
+      "aliases": [
+        "D10W"
+      ]
+    },
+    "Dextrose 5% in Water (D5W)": {
+      "category": "ivfluids",
+      "aliases": [
+        "D5W"
+      ]
+    },
+    "Dextrose 5% in sodium chloride 0.45% (D5 1/2 NS)": {
+      "category": "ivfluids",
+      "aliases": [
+        "D5 1/2 NS"
+      ]
+    },
+    "Dextrose 5% in sodium chloride 0.9% (D5NS)": {
+      "category": "ivfluids",
+      "aliases": [
+        "D5NS"
+      ]
+    },
+    "Lactated Ringer's (LR)": {
+      "category": "ivfluids",
+      "aliases": [
+        "LR"
+      ]
+    },
+    "Normal Saline (NS)": {
+      "category": "ivfluids",
+      "aliases": [
+        "NS"
+      ]
+    },
+    "Sodium Chloride 0.45% (1/2 NS)": {
+      "category": "ivfluids",
+      "aliases": [
+        "1/2 NS"
+      ]
+    },
+    "TPN": {
+      "category": "dedicated",
+      "aliases": [
+        "TPN"
+      ]
+    },
+    "3% Saline": {
+      "category": "dedicated",
+      "aliases": [
+        "3% Saline"
+      ]
+    }
+  }
+}
